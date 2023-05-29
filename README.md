@@ -1,3 +1,4 @@
+Antes de comenzar los pasos para ejecutar la aplicacion, esta es una practicaen react para consumir la API desde el sitio de rickandmortyapi.com y asi mostrar en nuestro navegador los personajes listados con sus nombres, su imagen, si esta vivo o muerto y la especie a la que pertenece.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
